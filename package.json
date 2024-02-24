@@ -1,0 +1,11 @@
+{
+  "name": "noelle",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "index.js",
+  "author": "frogeggs",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
